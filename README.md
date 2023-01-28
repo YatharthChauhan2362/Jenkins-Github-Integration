@@ -2,8 +2,6 @@
 
 A simple todo app built with django
 
-![todo App]()
-
 ### Setup
 
 To get this repository, run the following command inside your git enabled terminal
